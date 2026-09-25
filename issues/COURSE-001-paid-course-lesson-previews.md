@@ -1,0 +1,22 @@
+# COURSE-001 — Preview lessons inside a paid course
+
+**Product:** Courses
+**Type:** Feature
+**Status:** Planned
+**Origin:** Direct request by Ivo at the 2026-04-14 HighLevel Product Town Hall; repeated 2026-06-19.
+
+## Observed
+Paid course pages need a preview that can expose selected lessons or modules before purchase. A free course offer is not the same as previewing selected content inside a paid course.
+
+## Why it matters
+Prospective learners need to understand what a paid course contains before purchasing, without receiving access to the full course.
+
+## Expected
+Allow course owners to choose specific preview lessons/modules (including more than one lesson or category) inside a paid course.
+
+## HighLevel response
+On 2026-04-14, a HighLevel representative said the Free Preview Option was in the roadmap and would be prioritized for Q3 2026. Ivo was still asking for free lessons on 2026-06-19. The documentation checked on 2026-09-25 confirms free offers and curriculum previews, but does not confirm unlocked previews inside a paid course. Delivery is unverified.
+
+## Evidence
+- Zoom Product Town Hall chat: 2026-04-14 and 2026-06-19.
+- [How to Build Courses and Membership Sites](https://help.gohighlevel.com/support/solutions/articles/48001141015)

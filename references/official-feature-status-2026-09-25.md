@@ -6,8 +6,8 @@ This is a documentation-based check of official HighLevel support and changelog 
 
 | Area | Documented as available | Limits relevant to this tracker |
 |---|---|---|
-| Communities Go Live | Interactive Meeting Room and broadcast/RTMP modes; host controls, chat, reactions, hand raise, screen sharing, layouts, optional recording/replay, web/mobile access. | This confirms core live-call features. Do not log these as missing. Per-room saved permission defaults and live host diagnostics are not described in the sources below. |
-| Personal meeting links and recordings | Reusable meeting link and a central Recordings Hub with viewing, download, and deletion. | A central hub exists; folders, tags, advanced ownership/retention, bulk actions, and native CRM destinations are not established by these sources. |
+| Communities Go Live | Interactive Meeting Room and broadcast/RTMP modes; host controls, chat, reactions, hand raise, screen sharing, layouts, optional recording/replay, web/mobile access. Shared-screen full-screen viewing and independent zoom controls are documented (Aug 27, 2026). | This confirms core live-call features. Do not log these as missing. Per-room saved permission defaults and live host diagnostics are not described in the sources below. |
+| Personal meeting links and recordings | Reusable meeting link and a central Recordings Hub with viewing, download, and deletion. Recordings can also be shared as posts to Communities. | A central hub and Community distribution exist; folders, tags, advanced ownership/retention, bulk actions, direct CRM/Client Portal destinations, and renaming were not established by these sources. |
 | Community Events | Scheduled Live Room location, registration, calendar actions, reminders, access controls, and joining from the event context. | Community event support exists. It does not establish one shared session lifecycle across every HighLevel product. |
 | Courses | One-time and recurring live sessions, timezone-aware scheduling, notifications, recordings, downloads, and adding a recording as a course lesson. | Several course workflows already exist. A general recording-to-contact/opportunity workflow is not established here. |
 | Webinar Funnels | Live and on-demand webinars, registration pages/forms, reminders, and follow-up automations. | Live and on-demand are available. The documentation checked does not establish scheduled simulive playback with live Q&A handoff, timed stage actions, or webinar backstage roles. |
@@ -16,7 +16,7 @@ This is a documentation-based check of official HighLevel support and changelog 
 
 ## Issue-by-issue triage
 
-All 23 records remain `New` because they are unsubmitted proposals, not because every capability is verified absent. Keep the issue statement focused on the gap in the right-hand column.
+The 23 original Meeting Room drafts were unsubmitted proposals. The Zoom archive added direct feedback records COURSE-001 and WEB-001, and supplied evidence that MR-120 was explicitly requested and promised as planned. The active CSV now contains 25 items with mixed evidence-based statuses; MR-209 is tracked separately as shipped/closed. Keep each issue focused on its remaining gap.
 
 | Issue | Already available or confirmed | Remaining proposal / current evidence |
 |---|---|---|
@@ -24,7 +24,7 @@ All 23 records remain `New` because they are unsubmitted proposals, not because 
 | MR-007 | Recording and transcription/AI are available as separate capabilities in some workflows. | Verify a room-level unified auto-record → transcribe → summarize/save workflow; not established as one configurable Meeting Room flow. |
 | MR-105 | Host/attendee roles and co-host support have been discussed in the source. | Team-owned rooms and broader preassigned roles/independent start are still a distinct proposal. |
 | MR-108 | Branded/custom meeting links are documented. | Broader attendee-facing branding controls are not established by the reviewed sources. |
-| MR-120 | Custom values and translation in product-specific places may exist. | A platform-wide translation/label catalog with inheritance and bulk management was not found in reviewed official sources. |
+| MR-120 | Community tab names can be manually customized. | Ivo directly requested Bulgarian label/button translation (Apr 14 and May 22); HighLevel said language translation would be supported soon. Platform-wide translation manager delivery is not verified. |
 | MR-140 | Recordings Hub exists with basic library operations. | Organization and lifecycle controls beyond view/download/delete were not established. |
 | MR-141 | Replays can be shared to Communities; Course recordings can be reused as lessons; recordings can be downloaded. | Direct reuse across contacts, appointments, opportunities, events, media, and courses as a common asset workflow is not established. |
 | MR-142 | Recording/replay links exist. | Contact-linked Client Portal sharing with access controls and view tracking was not established. |
@@ -43,10 +43,14 @@ All 23 records remain `New` because they are unsubmitted proposals, not because 
 | MR-207 | Mobile access to live sessions is documented. | Mobile picture-in-picture/background continuity was not established. |
 | MR-208 | Basic device preview and controls are documented. | The candidate needs concrete, reproducible accessibility examples before being sent; broad wording alone is not a verified defect report. |
 | MR-210 | Generic platform webhooks/API and basic live analytics exist. | Meeting Room-specific APIs/webhooks for room, occurrence, attendance, recording, transcript, and engagement objects were not established. |
+| MR-209 | Shared-screen full-screen viewing and independent zoom controls are documented in the Aug 27, 2026 screen-sharing update. | Closed as shipped; no longer an active request. |
 
 ## Official references
 
 - [Communities Go Live: meeting and broadcast modes, host controls, recording/replay, and RTMP](https://help.gohighlevel.com/support/solutions/articles/155000006673)
+- [Screen-sharing enhancements: fullscreen, zoom, system audio, and 1080p/30fps](https://help.gohighlevel.com/support/solutions/articles/155000008510-screen-sharing-enhancements-in-highlevel-meeting-rooms)
+- [Share meeting recordings as Community posts](https://help.gohighlevel.com/support/solutions/articles/155000008014-share-meeting-recordings-as-community-posts)
+- [Community tab customization and manual naming](https://help.gohighlevel.com/support/solutions/articles/155000008374-rearrange-and-rename-community-group-tabs)
 - [Personal Meeting Links and Recordings Hub](https://ideas.gohighlevel.com/changelog/new-personal-meeting-links)
 - [Live Rooms in Community Events](https://help.gohighlevel.com/support/solutions/articles/155000007834-live-rooms-in-communities-events)
 - [Live Sessions in Courses](https://ideas.gohighlevel.com/changelog/live-sessions-in-courses-labs)

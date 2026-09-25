@@ -79,9 +79,13 @@ Competitive/product references such as Sessions.us belong in `/references`, not 
 
 ## Source history and current feature status
 
-The issue files are unsubmitted AI-drafted candidates based on the beta review request. `New` means no HighLevel response is recorded. Do not imply that Ivo sent a proposal or that HighLevel acknowledged it without a direct source.
+The original beta-review issue drafts are AI-generated and unsubmitted unless an issue explicitly records a direct Zoom source. Statuses and responses now reflect evidence found in Ivo-authored Zoom chats; do not claim acknowledgement without a direct source.
 
 - [Review history and provenance](sources/meeting-room-feedback-history.md)
 - [Official feature availability check (2026-09-25)](references/official-feature-status-2026-09-25.md)
 
 The feature check separates documented existing behavior from unverified gaps. It is based on official documentation and changelog pages, not a live account test.
+
+- [Ivo-authored Zoom feedback index, Jan–Sep 2026](sources/zoom-feedback-index-2026.md) — 33 dated chat files, 435 messages, curated by product topic.
+- `MR-209` records full-screen viewing as shipped; it is intentionally absent from the active list.
+- `COURSE-001` and `WEB-001` capture direct, still-relevant feedback from the Zoom archive.
