@@ -16,7 +16,7 @@ This is a documentation-based check of official HighLevel support and changelog 
 
 ## Issue-by-issue triage
 
-The 23 original Meeting Room drafts were unsubmitted proposals. The Zoom archive added direct feedback records COURSE-001 and WEB-001, and supplied evidence that MR-120 was explicitly requested and promised as planned. The active CSV now contains 25 items with mixed evidence-based statuses; MR-209 is tracked separately as shipped/closed. Keep each issue focused on its remaining gap.
+The initial 23 Meeting Room draft records were corrected against the point-by-point beta response and later direct Zoom feedback. The linked Project contains 68 distinct issues with evidence-based statuses: 66 active, one shipped, and one closed as works as designed. MR-209 is the analytics roadmap item; fullscreen is separately archived as ZOOM-001. Keep each issue focused on its remaining gap.
 
 | Issue | Already available or confirmed | Remaining proposal / current evidence |
 |---|---|---|
@@ -43,7 +43,7 @@ The 23 original Meeting Room drafts were unsubmitted proposals. The Zoom archive
 | MR-207 | Mobile access to live sessions is documented. | Mobile picture-in-picture/background continuity was not established. |
 | MR-208 | Basic device preview and controls are documented. | The candidate needs concrete, reproducible accessibility examples before being sent; broad wording alone is not a verified defect report. |
 | MR-210 | Generic platform webhooks/API and basic live analytics exist. | Meeting Room-specific APIs/webhooks for room, occurrence, attendance, recording, transcript, and engagement objects were not established. |
-| MR-209 | Shared-screen full-screen viewing and independent zoom controls are documented in the Aug 27, 2026 screen-sharing update. | Closed as shipped; no longer an active request. |
+| MR-209 | Analytics roadmap was acknowledged by HighLevel in its point-by-point beta response. | Planned; source-backed delivery is not verified. |
 
 ## Official references
 

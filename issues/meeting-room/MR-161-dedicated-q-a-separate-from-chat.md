@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Hosts need to triage, assign and answer questions without losing them in chat.
 Open/answered/dismissed states, upvotes, answer live/private and assign to moderator/panelist.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel accepted the broader webinar Q&A direction; exact delivery details were not recorded in the summary.

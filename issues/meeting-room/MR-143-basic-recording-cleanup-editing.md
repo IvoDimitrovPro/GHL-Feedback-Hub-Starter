@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Client delivery, course publishing and webinar replay should not require a separ
 Rename, trim start/end, thumbnail, chapters, transcript/caption edit and export.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel received the basic recording editing proposal positively; delivery timing was not specified.

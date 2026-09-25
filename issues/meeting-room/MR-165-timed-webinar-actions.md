@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ This removes dependence on separate webinar software and connects engagement dir
 Timed/manual CTA, offer, checkout, poll, resource, redirect and workflow actions, tracked per contact.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel accepted the timed webinar actions direction; delivery timing was not specified.

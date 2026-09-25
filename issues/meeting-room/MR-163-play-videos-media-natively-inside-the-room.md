@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Native playback can provide better quality, synchronization and reuse of HighLev
 Select/upload video from Media Storage, synchronized playback for everyone, host play/pause/seek controls, and correct inclusion in the final recording.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel accepted the native media playback idea as part of the webinar direction; delivery timing was not specified.

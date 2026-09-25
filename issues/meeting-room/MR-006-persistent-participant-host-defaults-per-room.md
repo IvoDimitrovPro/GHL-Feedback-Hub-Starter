@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** UX  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Recurring meetings should not require the host to reconfigure the same permissio
 Save defaults for join muted, mic, camera, screen share, chat, reactions, raise hand, links/files and join-before-host; allow per-session override.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel acknowledged the request for persistent per-room defaults for participant and host permissions.

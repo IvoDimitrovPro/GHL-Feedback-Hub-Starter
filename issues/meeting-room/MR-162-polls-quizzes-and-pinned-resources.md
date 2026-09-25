@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Classes and webinars need measurable interaction tied to contacts and follow-up.
 Launch polls/quizzes, pin resources/links, save results to the session/contact and expose them to workflows/analytics.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel accepted the broader webinar engagement direction; exact delivery details were not recorded in the summary.

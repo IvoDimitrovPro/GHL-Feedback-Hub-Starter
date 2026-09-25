@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Speakers need a private preparation area and the audience needs controlled parti
 Backstage/practice area; host/co-host/producer/panelist/audience roles; bring speakers on/off stage; audience mic/camera off by default.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel accepted the broader webinar production direction; exact delivery details were not recorded in the summary.

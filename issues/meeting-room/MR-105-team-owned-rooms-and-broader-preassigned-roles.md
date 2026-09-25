@@ -2,8 +2,8 @@
 
 **Product:** Meeting Room  
 **Type:** Feature  
-**Status:** New
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Status:** Acknowledged
+**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
 
 ## Observed
@@ -16,7 +16,4 @@ Support, events, classes and sales teams may need any authorized teammate to sta
 Team-owned rooms plus preassigned roles such as host, moderator, panelist/speaker and producer; authorized teammates can start/manage independently.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel confirmed co-hosts already exist and clarified that the remaining team-owned room / broader role request is still valid.
