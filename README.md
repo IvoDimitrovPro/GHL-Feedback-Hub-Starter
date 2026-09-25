@@ -4,7 +4,9 @@ This repository is the evidence archive. **GitHub Issues and the linked Project 
 
 ## Start here
 
-- [Project: Active](https://github.com/users/IvoDimitrovPro/projects/1/views/2) — New, Acknowledged, and Planned items.
+- [Project: Active](https://github.com/users/IvoDimitrovPro/projects/1/views/1) — default view for New, Acknowledged, and Planned items.
+- [Priority / Next to send](https://github.com/users/IvoDimitrovPro/projects/1/views/8) — New items with High impact.
+- [All / Archive](https://github.com/users/IvoDimitrovPro/projects/1/views/2) — full history, including shipped and closed items.
 - [Needs HighLevel Reply](https://github.com/users/IvoDimitrovPro/projects/1/views/3) — New items.
 - [Planned](https://github.com/users/IvoDimitrovPro/projects/1/views/4)
 - [By Product](https://github.com/users/IvoDimitrovPro/projects/1/views/5) — active items with Product and Feedback type fields.
@@ -33,4 +35,4 @@ Closed and shipped issues stay searchable. Only New / Acknowledged / Planned bel
 
 The export contains 33 date-matched Zoom chat files and 435 messages authored by `Ivo (pr. Evo)`. Issues include only distinct product feedback, not every message. Zoom dates and source files are recorded per issue. The point-by-point beta response excerpt supplied by Ivo is preserved separately; its original forum URL was not included.
 
-The Project currently contains 71 issues: 67 Active, two Shipped, one Closed — Works as designed, and one Closed — Not pursuing. `active-items.csv` is an export for offline reading; edit and manage items in the Project and Issues.
+The public Project currently contains 71 issues: 67 Active, two Shipped, one Closed — Works as designed, and one Closed — Not pursuing. [MR-145](https://github.com/IvoDimitrovPro/highlevel-product-feedback/issues/29) is the active audio-only/transcript workflow; [MR-144](https://github.com/IvoDimitrovPro/highlevel-product-feedback/issues/53) archives the separate-track idea as not pursuing. `active-items.csv` is an export for offline reading; edit and manage items in the Project and Issues.

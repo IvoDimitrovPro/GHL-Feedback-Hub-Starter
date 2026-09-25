@@ -16,7 +16,7 @@ This is a documentation-based check of official HighLevel support and changelog 
 
 ## Issue-by-issue triage
 
-The initial Meeting Room records were corrected against the point-by-point beta response and later direct Zoom feedback. The linked Project contains 71 distinct issues: 67 Active, two Shipped, one Closed — Works as designed, and one Closed — Not pursuing. MR-209 is the analytics roadmap item; fullscreen is separately archived as ZOOM-001. MR-145 is retained as closed history and merged into MR-144. Keep each issue focused on its remaining gap.
+The Meeting Room records were corrected against the point-by-point beta response and later direct Zoom feedback. The linked Project contains 71 distinct issues: 67 Active, two Shipped, one Closed — Works as designed, and one Closed — Not pursuing. MR-209 is the analytics roadmap item; fullscreen is separately archived as ZOOM-001. MR-145 is the active practical audio/transcript workflow; MR-144 preserves the separate-track idea as closed history. Keep each issue focused on its remaining gap.
 
 | Issue | Already available or confirmed | Remaining proposal / current evidence |
 |---|---|---|
@@ -37,7 +37,8 @@ The initial Meeting Room records were corrected against the point-by-point beta 
 | MR-141 | Replays can be shared to Communities; Course recordings can be reused as lessons; recordings can be downloaded. | Direct reuse across contacts, appointments, opportunities, events, media, and courses as a common asset workflow is not established. |
 | MR-142 | Recording/replay links exist. | Contact-linked Client Portal sharing with access controls and view tracking was not established. |
 | MR-143 | Replay viewing and downloading exist. | Editing/trim/chapters/transcript corrections in the recording workflow were not established. |
-| MR-144 | HighLevel prioritizes reliable final audio capture. | Separate audio tracks/exports will be evaluated; audio-only delivery and the requested transcript/chapter workflow are not committed. The related MR-145 record is merged here. |
+| MR-144 | HighLevel prioritizes reliable final audio capture. | Separate logical tracks would be evaluated separately. Ivo decided not to pursue them; closed as not pursuing. |
+| MR-145 | The beta response did not specifically address the full audio-only/transcript workflow. | Active, high impact: remove the Camtasia → AssemblyAI steps with audio-only export, high-quality speaker-labelled transcript, timestamps, TXT/Markdown, SRT/VTT, Bulgarian support, optional clickable AI chapters, and per-room/session controls. |
 | MR-121 | — | HighLevel agreed Meeting Room should use the platform-wide Translation & Label Manager once available. |
 | MR-160 | Webinar Funnels support live webinars. | Dedicated presenter/audience roles, backstage, and stage transitions were not established by the reviewed sources. |
 | MR-161 | Webinar Q&A is a supported use case. | A dedicated moderated question queue with assignment/states separate from chat was not established. |

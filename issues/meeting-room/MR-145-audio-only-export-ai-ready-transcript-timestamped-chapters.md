@@ -1,24 +1,30 @@
-# MR-145 — Audio-only export + AI-ready transcript + timestamped chapters
+# MR-145 — Audio-only export and AI-ready transcript with timestamped chapters
 
 **Product:** Meeting Room
 **Type:** Feature
-**Status:** Closed — Not pursuing
+**Status:** New
 **Date reported:** 2026-09-25
-**Source:** AI-generated beta-review candidate, not submitted; sources/meeting-room-feedback-history.md
-
+**Source:** ChatGPT beta feedback conversation; sources/meeting-room-feedback-history.md; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** High
 
 ## Observed
-A common workflow today is download recording → extract audio in Camtasia → transcribe in AssemblyAI → use transcript as AI context.
+After each meeting, Ivo downloads the video, extracts its audio in Camtasia, transcribes it with AssemblyAI, then gives the transcript to AI. This repeated manual workflow adds work before meeting content can be searched, summarized, or used for follow-up.
 
 ## Why it matters
-This repeated manual workflow wastes time after regular client/team meetings.
+An audio-first export and useful transcript would remove several manual steps after regular client/team meetings and make meeting content ready for AI workflows.
 
 ## Expected
-For each recording: audio-only download, high-quality speaker-labelled transcript with timestamps, TXT/Markdown export for AI, SRT/VTT, language selection/auto-detection including Bulgarian, and optional AI chapters/key moments with clickable timestamps. Enable/disable per room/session.
+For each recording, provide:
+
+- Audio-only export.
+- A high-quality transcript with speaker labels and timestamps.
+- TXT/Markdown output for AI workflows, plus SRT/VTT captions.
+- Bulgarian language support, including accurate recognition/transcription.
+- Optional AI-generated chapters/key moments with clickable timestamps.
+- Per-room/session controls to enable or disable transcription and chapter processing, including for webinars.
 
 ## HighLevel response
-Merged into MR-144; the audio-only and AI-ready transcript/timestamped chapter workflow is retained there as one regular-meeting use case.
+Praveen's response on MR-144 says reliable final audio mixing is the priority and separate logical tracks/exports will be evaluated separately. It does not specifically answer or commit to audio-only export, transcript quality/speaker labels/timestamps, text/caption formats, Bulgarian support, chapters, or per-session processing controls. Keep this item New until HighLevel responds to these requirements.
 
-
-## Resolution
-Merged into MR-144 so the shared recording/transcript workflow has one feedback item. This issue remains as history only.
+## Related feedback
+MR-144 preserves the historical separate-track suggestion, which Ivo has decided not to pursue.

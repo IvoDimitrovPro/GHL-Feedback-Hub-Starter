@@ -12,7 +12,8 @@ Ivo sent beta feedback and received a point-by-point HighLevel response. The res
 - **2026-09-24 18:24** — Ivo expanded the target scenarios to Calendars and appointments, Communities and events, Courses and live sessions, ticketed/free Events, and live or automated Webinars. The request emphasized a clear end-to-end experience for platform customers and concrete suggestions.
 - **2026-09-25 12:32** — Ivo clarified that behavior already present or inherent to the platform should not be repeated as a defect (including shared-screen audio and other confirmed behaviors). This was not a commissioned validation pass; candidates should not imply testing or submission.
 - **2026-09-25** — The initial review found 23 issue drafts and incorrectly concluded there was no beta-team response. The original conversation and Ivo's correction establish that HighLevel replied point by point. The response summary now informs statuses for acknowledged and planned items; unsupported status claims were removed. Fullscreen is separately closed as shipped (ZOOM-001). Earlier versions are preserved in the Universe backup.
-- **2026-09-25** — Ivo supplied the complete point-by-point response excerpt from Praveen Gupta. It is now preserved separately and used to correct issue statuses, add omitted MR-004/MR-121/MR-202, and merge the audio/transcript workflow previously split across MR-144/MR-145.
+- **2026-09-25** — Ivo supplied the complete point-by-point response excerpt from Praveen Gupta. The exact supplied text is now preserved in the source file and informs the issue statuses; MR-004, MR-121, and MR-202 were added.
+- **2026-09-25** — On final workflow review, Ivo separated the practical audio-only/transcript/chapter request (active MR-145) from the advanced separate-track idea (MR-144, closed as not pursuing). This replaces the earlier merge decision.
 
 ## Related sessions and Zoom archive search
 
