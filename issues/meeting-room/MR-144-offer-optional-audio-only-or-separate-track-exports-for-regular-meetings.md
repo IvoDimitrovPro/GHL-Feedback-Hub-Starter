@@ -4,7 +4,7 @@
 **Type:** Feature
 **Status:** Closed — Not pursuing
 **Date reported:** 2026-09-25
-**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Source:** [Meeting Room beta response](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/highlevel-meeting-room-response-2026-09-25.md)
 **Impact:** Not assessed
 
 ## Observed
@@ -14,7 +14,7 @@ The initial beta feedback proposed exporting separate logical audio tracks from 
 This is an advanced production option, not the recurring workflow Ivo needs to solve.
 
 ## Expected
-No separate-track export work is being requested. Keep the final recording mixed reliably. Track the actual audio-only and transcript workflow in [MR-145](meeting-room/MR-145-audio-only-export-ai-ready-transcript-timestamped-chapters.md).
+No separate-track export work is being requested. Keep the final recording mixed reliably. Track the actual audio-only and transcript workflow in [MR-145](https://github.com/IvoDimitrovPro/highlevel-product-feedback/issues/29).
 
 ## HighLevel response
 Praveen said reliable mixing/capture of supported sources is the final-recording priority and that separate logical tracks/exports would be evaluated separately. Ivo has since decided not to pursue separate tracks as a feedback item.

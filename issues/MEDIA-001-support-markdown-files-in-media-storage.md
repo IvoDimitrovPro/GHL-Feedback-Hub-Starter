@@ -3,18 +3,18 @@
 **Product:** Media Storage
 **Type:** File support
 **Status:** New
-**Impact:** Not assessed
+**Impact:** Medium
 **Date reported:** 2026-08-20
-**Source:** D:\Zoom\2026-08-20 18.52.57 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-08-20 Product Town Hall
 
 ## Observed
 Ivo asked why .md files were unsupported and useful as light AI context.
 
+## Why it matters
+Markdown is a common lightweight AI/knowledge format; rejecting it adds conversion and upload friction.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Allow Markdown files to be uploaded, stored, and selected anywhere text files are supported, including AI/knowledge workflows.
 
 ## HighLevel response
 No platform response recorded.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

@@ -3,18 +3,18 @@
 **Product:** Platform / Builders
 **Type:** UX
 **Status:** New
-**Impact:** Not assessed
+**Impact:** Medium
 **Date reported:** 2026-05-06
-**Source:** D:\Zoom\2026-05-06 17.15.04 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-05-06 Product Town Hall
 
 ## Observed
 Brand Boards, shared colors/fonts, and Media Storage are inconsistent across product areas.
 
+## Why it matters
+Shared brand assets only save time if they are actually reusable across every relevant builder.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Make shared Brand Board assets, colors, fonts, and logos available consistently across all relevant builders instead of reconfiguring them per product.
 
 ## HighLevel response
 Some individual customizers exist; universal integration is not verified.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

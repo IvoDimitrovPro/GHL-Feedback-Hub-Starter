@@ -3,18 +3,18 @@
 **Product:** Communities
 **Type:** Feature
 **Status:** New
-**Impact:** Not assessed
+**Impact:** High
 **Date reported:** 2026-05-22
-**Source:** D:\Zoom\2026-05-22 18.49.18 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-05-22 Product Town Hall
 
 ## Observed
 Ivo asked for access conditions without duplicating separate workflows/funnels for each rule.
 
+## Why it matters
+Access/entitlement rules do not scale when every variation needs another funnel or workflow.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Allow Community access to be granted or revoked from purchases, products/offers, points, tags, or membership rules without duplicating funnels/workflows for each case.
 
 ## HighLevel response
 No direct response or verified implementation recorded.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

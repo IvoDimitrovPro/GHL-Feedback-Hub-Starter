@@ -3,18 +3,18 @@
 **Product:** Forms / Surveys / Funnels / Stores
 **Type:** Integrations
 **Status:** New
-**Impact:** Not assessed
+**Impact:** High
 **Date reported:** 2026-07-10
-**Source:** D:\Zoom\2026-07-10 17.38.15 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-07-10 Product Town Hall
 
 ## Observed
 Ivo reported inconsistent Meta Pixel/CAPI/GTM setup and Purchase events not firing across surfaces.
 
+## Why it matters
+Inconsistent tracking produces unreliable attribution and weakens ad optimization and reporting.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Provide one tracking hub for Meta Pixel/CAPI, GTM, and other tracking values that can be reused across Forms, Surveys, Quizzes, Funnels, Websites, and Stores, with consistent event diagnostics including Purchase.
 
 ## HighLevel response
 No direct response or resolution recorded.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

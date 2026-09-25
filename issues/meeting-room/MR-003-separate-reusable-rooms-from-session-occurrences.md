@@ -4,17 +4,17 @@
 **Type:** Feature
 **Status:** Planned
 **Date reported:** 2026-09-25
-**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
-**Impact:** Not assessed
+**Source:** [Meeting Room beta response](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/highlevel-meeting-room-response-2026-09-25.md)
+**Impact:** High
 
 ## Observed
 A persistent room should have related individual scheduled/completed occurrences and their own attendee and recording data.
 
+## Why it matters
+Separating reusable configuration from occurrence data prevents security, history, and reporting from being conflated.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Keep reusable Room defaults separate from each Session/Occurrence, which should retain its own schedule, participants, access, attendance, recording, transcript, and analytics.
 
 ## HighLevel response
 HighLevel is moving toward reusable Room configuration separated from individual Sessions/Occurrences, each with its own schedule, access, participants, attendance, recording, transcript, and analytics.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The point-by-point HighLevel response excerpt supplied by Ivo is preserved in sources/highlevel-meeting-room-response-2026-09-25.md; its original forum URL was not supplied.

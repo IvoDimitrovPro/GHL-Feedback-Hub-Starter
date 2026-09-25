@@ -3,18 +3,18 @@
 **Product:** Email / Contacts
 **Type:** UX
 **Status:** New
-**Impact:** Not assessed
+**Impact:** High
 **Date reported:** 2026-05-06
-**Source:** D:\Zoom\2026-05-06 17.15.04 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-05-06 Product Town Hall
 
 ## Observed
 Ivo reported confusion between DND and unsubscribe and unclear state when a contact opts in again.
 
+## Why it matters
+Ambiguous consent states can cause incorrect suppression/sending and create avoidable compliance risk.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Show unsubscribe, DND, and consent as distinct understandable states; when a contact re-consents, update the state predictably and preserve the history.
 
 ## HighLevel response
 No fix established in the messages reviewed.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

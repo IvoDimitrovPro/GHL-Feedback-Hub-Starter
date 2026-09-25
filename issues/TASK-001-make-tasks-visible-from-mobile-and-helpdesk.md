@@ -3,18 +3,18 @@
 **Product:** Tasks / Helpdesk
 **Type:** UX
 **Status:** New
-**Impact:** Not assessed
+**Impact:** Medium
 **Date reported:** 2026-07-31
-**Source:** D:\Zoom\2026-07-31 17.36.28 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-07-31 Product Town Hall
 
 ## Observed
 Ivo asked for a mobile home-screen widget and Helpdesk/Ticketing connection.
 
+## Why it matters
+Tasks lose operational value when staff cannot see them in the mobile/helpdesk surfaces where work is happening.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Surface tasks clearly in mobile and connect them with Helpdesk/Ticketing so staff can see and act on work where they already operate.
 
 ## HighLevel response
 No delivery status recorded.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

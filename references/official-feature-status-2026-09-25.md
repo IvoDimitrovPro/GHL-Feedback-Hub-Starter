@@ -21,7 +21,6 @@ The Meeting Room records were corrected against the point-by-point beta response
 | Issue | Already available or confirmed | Remaining proposal / current evidence |
 |---|---|---|
 | MR-004 | Per-meeting participant access modes are configurable today. | Shipped for the reported behavior; additional options may expand with Room/Session configuration. |
-| MR-004 | Hosts can configure participant access per meeting. | Further options may expand with Room/Session configuration; current requested behavior is shipped. |
 | MR-006 | Live host permission controls exist. | Persist those controls as reusable room defaults; allow per-session overrides. |
 | MR-007 | Recording and transcription/AI are available as separate capabilities in some workflows. | Verify a room-level unified auto-record → transcribe → summarize/save workflow; not established as one configurable Meeting Room flow. |
 | MR-101 | Meeting Room is intended to remain the source of truth for integrations. | Inline select/create/configure flow was targeted for the following week; verify delivery. |
@@ -41,14 +40,13 @@ The Meeting Room records were corrected against the point-by-point beta response
 | MR-145 | The beta response did not specifically address the full audio-only/transcript workflow. | Active, high impact: remove the Camtasia → AssemblyAI steps with audio-only export, high-quality speaker-labelled transcript, timestamps, TXT/Markdown, SRT/VTT, Bulgarian support, optional clickable AI chapters, and per-room/session controls. |
 | MR-121 | — | HighLevel agreed Meeting Room should use the platform-wide Translation & Label Manager once available. |
 | MR-160 | Webinar Funnels support live webinars. | Dedicated presenter/audience roles, backstage, and stage transitions were not established by the reviewed sources. |
-| MR-161 | Webinar Q&A is a supported use case. | A dedicated moderated question queue with assignment/states separate from chat was not established. |
+| MR-161 | Live webinar flows are documented. | A dedicated moderated Q&A queue with assignment/states separate from chat was not established. |
 | MR-162 | Chat, reactions, and hand raise exist. | Native polls/quizzes/resources tied to contacts and workflows were not established. |
 | MR-163 | Screen sharing exists. | Synchronized native media playback from HighLevel Media Storage within a room was not established. |
 | MR-164 | Live and on-demand webinar types exist. | Scheduled prerecorded simulive events, recurrence/JIT scheduling, and automated live Q&A handoff were not established. |
 | MR-165 | Webinar funnels include reminders and follow-up automations. | Timed in-session CTA/offer/poll/resource/redirect actions were not established. |
 | MR-201 | HighLevel has considered breakout rooms. | Not required for initial rollout; described as a later capability layer, without a delivery date. |
 | MR-202 | No existing whiteboard/shared-notes feature was established in the documentation check. | HighLevel said these can be considered as an additional collaboration capability; no commitment. |
-| MR-121 | No centralized Meeting Room translation integration was established in the documentation check. | HighLevel agreed Meeting Room should use the platform-wide Translation & Label Manager once available. |
 | MR-203 | Live transcription/captions are distinct from translation. | The proposal is specifically translated live captions; reviewed sources did not establish translation. |
 | MR-205 | No phone dial-in/SIP evidence found in reviewed sources. | HighLevel noted dial-in as an additional access option; no delivery commitment. |
 | MR-206 | Pre-join camera/microphone preview/device checks exist. | The proposal is in-session host-side participant quality/network diagnostics. |

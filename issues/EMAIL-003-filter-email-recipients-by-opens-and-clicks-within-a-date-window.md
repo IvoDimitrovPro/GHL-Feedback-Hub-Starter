@@ -3,18 +3,18 @@
 **Product:** Email / Smart Lists
 **Type:** Filtering
 **Status:** New
-**Impact:** Not assessed
+**Impact:** Medium
 **Date reported:** 2026-06-15
-**Source:** D:\Zoom\2026-06-15 17.58.36 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-06-15 Product Town Hall
 
 ## Observed
 Current engagement conditions were too vague to build a useful Smart List for a selected period.
 
+## Why it matters
+Without time-bounded engagement filters, teams cannot reliably target people who interacted with a specific recent campaign.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Let Smart Lists/audiences filter contacts by email open/click events within a selected date window, with campaign/source filters where relevant.
 
 ## HighLevel response
 No resolution recorded.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

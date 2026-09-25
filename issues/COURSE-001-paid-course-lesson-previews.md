@@ -3,7 +3,9 @@
 **Product:** Courses
 **Type:** Feature
 **Status:** Planned
-**Origin:** Direct request by Ivo at the 2026-04-14 HighLevel Product Town Hall; repeated 2026-06-19.
+**Date reported:** 2026-04-14
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-04-14 Product Town Hall; 2026-06-19 Product Town Hall
+**Impact:** Medium
 
 ## Observed
 Paid course pages need a preview that can expose selected lessons or modules before purchase. A free course offer is not the same as previewing selected content inside a paid course.

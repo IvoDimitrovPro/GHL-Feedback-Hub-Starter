@@ -3,7 +3,9 @@
 **Product:** Webinars / Community Events
 **Type:** UX
 **Status:** New
-**Origin:** Direct request by Ivo at the 2026-04-29 HighLevel Product Town Hall.
+**Date reported:** 2026-04-29
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-04-29 Product Town Hall
+**Impact:** High
 
 ## Observed
 A public webinar using a Community Personal Meeting Link appears to require attendees to sign in or create a Community account first.

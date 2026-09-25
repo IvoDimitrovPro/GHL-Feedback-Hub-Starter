@@ -3,18 +3,18 @@
 **Product:** Funnels / Stores / Workflows
 **Type:** Data
 **Status:** New
-**Impact:** Not assessed
+**Impact:** High
 **Date reported:** 2026-09-17
-**Source:** D:\Zoom\2026-09-17 18.34.16 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-09-17 Product Town Hall
 
 ## Observed
 Ivo asked for internal/external IDs, Stripe/WooCommerce identifiers, receipt metadata, and sequential order IDs for EU reporting.
 
+## Why it matters
+Stable identifiers and metadata are needed for reconciliation, EU reporting, and downstream automation without manual monthly work.
+
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Expose stable internal order IDs plus relevant external gateway/store identifiers, receipt/order metadata, and those values in exports and Workflows; support a sequential internal identifier where required.
 
 ## HighLevel response
 No response or implementation established.
-
-## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.

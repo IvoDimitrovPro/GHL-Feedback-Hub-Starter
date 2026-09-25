@@ -5,7 +5,7 @@
 **Status:** Acknowledged
 **Impact:** High
 **Date reported:** 2026-05-08
-**Source:** D:\Zoom\2026-05-08 19.05.03 Product Town Hall\meeting_saved_new_chat.txt; D:\Zoom\2026-06-15 17.58.36 Product Town Hall\meeting_saved_new_chat.txt; D:\Zoom\2026-08-06 17.59.23 Product Town Hall\meeting_saved_new_chat.txt
+**Source:** [Zoom feedback index](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/zoom-feedback-index-2026.md) — 2026-05-08 Product Town Hall; 2026-06-15 Product Town Hall; 2026-08-06 Product Town Hall
 
 ## Observed
 Ivo asked Ask AI to use agency-managed documents and Knowledge Base content across supported product areas.

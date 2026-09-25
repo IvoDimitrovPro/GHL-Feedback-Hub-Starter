@@ -4,7 +4,7 @@
 **Type:** Feature
 **Status:** New
 **Date reported:** 2026-09-25
-**Source:** ChatGPT beta feedback conversation; sources/meeting-room-feedback-history.md; sources/highlevel-meeting-room-response-2026-09-25.md
+**Source:** [Meeting Room beta response](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/highlevel-meeting-room-response-2026-09-25.md); [Meeting Room source history](https://github.com/IvoDimitrovPro/highlevel-product-feedback/blob/main/sources/meeting-room-feedback-history.md)
 **Impact:** High
 
 ## Observed
