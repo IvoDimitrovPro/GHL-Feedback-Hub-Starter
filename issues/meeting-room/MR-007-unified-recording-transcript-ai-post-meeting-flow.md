@@ -1,8 +1,8 @@
 # MR-007 — Unified recording → transcript → AI post-meeting flow
 
-**Product:** Meeting Room  
-**Type:** Feature  
-**Status:** New
+**Product:** Meeting Room
+**Type:** Feature
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Recurring client/team meetings should produce usable notes and assets automatica
 Per-room/session settings for auto-record, auto-transcribe, AI summary/action items, CRM save and optional replay publishing.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel agrees recording, transcription, AI summaries, and post-meeting processing should work as one configurable flow; feedback noted.

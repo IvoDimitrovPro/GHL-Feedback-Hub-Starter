@@ -1,7 +1,7 @@
 # MR-006 — Persistent participant/host defaults per room
 
-**Product:** Meeting Room  
-**Type:** UX  
+**Product:** Meeting Room
+**Type:** UX
 **Status:** Acknowledged
 **Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
@@ -16,4 +16,4 @@ Recurring meetings should not require the host to reconfigure the same permissio
 Save defaults for join muted, mic, camera, screen share, chat, reactions, raise hand, links/files and join-before-host; allow per-session override.
 
 ## HighLevel response
-HighLevel acknowledged the request for persistent per-room defaults for participant and host permissions.
+HighLevel agrees host controls should have reusable defaults with per-session overrides; feedback noted.

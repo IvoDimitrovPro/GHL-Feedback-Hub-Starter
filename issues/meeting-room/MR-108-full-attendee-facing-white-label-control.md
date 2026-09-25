@@ -1,8 +1,8 @@
 # MR-108 — Full attendee-facing white-label control
 
-**Product:** Meeting Room  
-**Type:** Feature  
-**Status:** New
+**Product:** Meeting Room
+**Type:** Feature
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Agencies should be able to make the meeting experience feel native to each brand
 Agency/location/room overrides for logo, favicon, page title, colors, waiting-room content and other attendee-facing UI.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel noted the feedback and will account for broader white-label customization across attendee-facing Meeting Room experiences.

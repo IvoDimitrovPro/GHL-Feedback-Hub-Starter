@@ -1,7 +1,7 @@
 # MR-140 — Recording Hub as an organized asset library
 
-**Product:** Meeting Room  
-**Type:** Feature  
+**Product:** Meeting Room
+**Type:** Feature
 **Status:** Acknowledged
 **Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
@@ -16,4 +16,4 @@ Agencies, recurring meetings, courses and clients quickly create many recordings
 Folders/collections, tags, search/filter, rename, move/copy, bulk actions, archive/trash, permissions, ownership and retention.
 
 ## HighLevel response
-HighLevel received the Recording Library proposal positively; delivery timing was not specified.
+HighLevel agrees recordings should become reusable assets; folders/collections, search, permissions, ownership, and retention are useful.

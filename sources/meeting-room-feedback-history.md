@@ -4,7 +4,7 @@
 
 Primary source: the ChatGPT conversation saved locally as `Обратна-връзка-за-Meeting-room_2026_09_25__1244.md` (the folder/file spelling differs slightly from the originally supplied path). It contains a live room URL with an access credential; that URL is intentionally omitted from this shareable record. Keep the original source local.
 
-The Meeting Room records are normalized summaries, not verbatim statements. Ivo sent beta feedback and received a point-by-point HighLevel response; the exported ChatGPT conversation preserves that vendor response as an assistant summary, not as the original message or a verbatim attachment. Where that response is the source for a status, each issue says so. Some remaining candidate suggestions have no recorded response and should not be described as accepted or submitted without a direct source.
+Ivo sent beta feedback and received a point-by-point HighLevel response. The response excerpt supplied by Ivo on 2026-09-25 is preserved in [HighLevel point-by-point response](highlevel-meeting-room-response-2026-09-25.md); the original forum URL was not supplied. Its documented behaviors and commitments inform each issue status. Other candidate suggestions without a response remain New.
 
 ## Timeline
 
@@ -12,6 +12,7 @@ The Meeting Room records are normalized summaries, not verbatim statements. Ivo 
 - **2026-09-24 18:24** — Ivo expanded the target scenarios to Calendars and appointments, Communities and events, Courses and live sessions, ticketed/free Events, and live or automated Webinars. The request emphasized a clear end-to-end experience for platform customers and concrete suggestions.
 - **2026-09-25 12:32** — Ivo clarified that behavior already present or inherent to the platform should not be repeated as a defect (including shared-screen audio and other confirmed behaviors). This was not a commissioned validation pass; candidates should not imply testing or submission.
 - **2026-09-25** — The initial review found 23 issue drafts and incorrectly concluded there was no beta-team response. The original conversation and Ivo's correction establish that HighLevel replied point by point. The response summary now informs statuses for acknowledged and planned items; unsupported status claims were removed. Fullscreen is separately closed as shipped (ZOOM-001). Earlier versions are preserved in the Universe backup.
+- **2026-09-25** — Ivo supplied the complete point-by-point response excerpt from Praveen Gupta. It is now preserved separately and used to correct issue statuses, add omitted MR-004/MR-121/MR-202, and merge the audio/transcript workflow previously split across MR-144/MR-145.
 
 ## Related sessions and Zoom archive search
 

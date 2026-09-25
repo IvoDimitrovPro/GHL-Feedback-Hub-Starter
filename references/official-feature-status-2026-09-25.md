@@ -16,33 +16,44 @@ This is a documentation-based check of official HighLevel support and changelog 
 
 ## Issue-by-issue triage
 
-The initial 23 Meeting Room draft records were corrected against the point-by-point beta response and later direct Zoom feedback. The linked Project contains 68 distinct issues with evidence-based statuses: 66 active, one shipped, and one closed as works as designed. MR-209 is the analytics roadmap item; fullscreen is separately archived as ZOOM-001. Keep each issue focused on its remaining gap.
+The initial Meeting Room records were corrected against the point-by-point beta response and later direct Zoom feedback. The linked Project contains 71 distinct issues: 67 Active, two Shipped, one Closed — Works as designed, and one Closed — Not pursuing. MR-209 is the analytics roadmap item; fullscreen is separately archived as ZOOM-001. MR-145 is retained as closed history and merged into MR-144. Keep each issue focused on its remaining gap.
 
 | Issue | Already available or confirmed | Remaining proposal / current evidence |
 |---|---|---|
+| MR-004 | Per-meeting participant access modes are configurable today. | Shipped for the reported behavior; additional options may expand with Room/Session configuration. |
+| MR-004 | Hosts can configure participant access per meeting. | Further options may expand with Room/Session configuration; current requested behavior is shipped. |
 | MR-006 | Live host permission controls exist. | Persist those controls as reusable room defaults; allow per-session overrides. |
 | MR-007 | Recording and transcription/AI are available as separate capabilities in some workflows. | Verify a room-level unified auto-record → transcribe → summarize/save workflow; not established as one configurable Meeting Room flow. |
+| MR-101 | Meeting Room is intended to remain the source of truth for integrations. | Inline select/create/configure flow was targeted for the following week; verify delivery. |
+| MR-102 | Meeting setup exists. | HighLevel plans presets by meeting type/use case; delivery not verified. |
+| MR-103 | Calendar-scheduled meetings show live state. | Native per-appointment Meeting Sessions are planned. |
+| MR-104 | Product integrations exist. | HighLevel intends session context/data to flow back to Communities, Courses, and Events. |
 | MR-105 | Host/attendee roles and co-host support have been discussed in the source. | Team-owned rooms and broader preassigned roles/independent start are still a distinct proposal. |
-| MR-108 | Branded/custom meeting links are documented. | Broader attendee-facing branding controls are not established by the reviewed sources. |
+| MR-106 | — | CRM integration for attendance, recordings, transcripts, AI notes, and engagement data is planned. |
+| MR-107 | — | Meeting/session workflow triggers and actions are planned. |
+| MR-108 | Branded/custom meeting links are documented. | Broader attendee-facing branding controls are acknowledged; delivery not verified. |
 | MR-120 | Community tab names can be manually customized. | Ivo directly requested Bulgarian label/button translation (Apr 14 and May 22); HighLevel said language translation would be supported soon. Platform-wide translation manager delivery is not verified. |
 | MR-140 | Recordings Hub exists with basic library operations. | Organization and lifecycle controls beyond view/download/delete were not established. |
 | MR-141 | Replays can be shared to Communities; Course recordings can be reused as lessons; recordings can be downloaded. | Direct reuse across contacts, appointments, opportunities, events, media, and courses as a common asset workflow is not established. |
 | MR-142 | Recording/replay links exist. | Contact-linked Client Portal sharing with access controls and view tracking was not established. |
 | MR-143 | Replay viewing and downloading exist. | Editing/trim/chapters/transcript corrections in the recording workflow were not established. |
-| MR-145 | Recording/replay exists; the beta source described a manual external transcript workflow. | Audio-only export and AI-ready speaker-labelled/timestamped transcript export were not established for Meeting Room. |
+| MR-144 | HighLevel prioritizes reliable final audio capture. | Separate audio tracks/exports will be evaluated; audio-only delivery and the requested transcript/chapter workflow are not committed. The related MR-145 record is merged here. |
+| MR-121 | — | HighLevel agreed Meeting Room should use the platform-wide Translation & Label Manager once available. |
 | MR-160 | Webinar Funnels support live webinars. | Dedicated presenter/audience roles, backstage, and stage transitions were not established by the reviewed sources. |
 | MR-161 | Webinar Q&A is a supported use case. | A dedicated moderated question queue with assignment/states separate from chat was not established. |
 | MR-162 | Chat, reactions, and hand raise exist. | Native polls/quizzes/resources tied to contacts and workflows were not established. |
 | MR-163 | Screen sharing exists. | Synchronized native media playback from HighLevel Media Storage within a room was not established. |
 | MR-164 | Live and on-demand webinar types exist. | Scheduled prerecorded simulive events, recurrence/JIT scheduling, and automated live Q&A handoff were not established. |
 | MR-165 | Webinar funnels include reminders and follow-up automations. | Timed in-session CTA/offer/poll/resource/redirect actions were not established. |
-| MR-201 | No breakout-room evidence found in reviewed sources. | Keep as an unverified candidate; do not claim HighLevel said it is planned without a direct source. |
+| MR-201 | HighLevel has considered breakout rooms. | Not required for initial rollout; described as a later capability layer, without a delivery date. |
+| MR-202 | No existing whiteboard/shared-notes feature was established in the documentation check. | HighLevel said these can be considered as an additional collaboration capability; no commitment. |
+| MR-121 | No centralized Meeting Room translation integration was established in the documentation check. | HighLevel agreed Meeting Room should use the platform-wide Translation & Label Manager once available. |
 | MR-203 | Live transcription/captions are distinct from translation. | The proposal is specifically translated live captions; reviewed sources did not establish translation. |
-| MR-205 | No phone dial-in/SIP evidence found in reviewed sources. | Keep as an unverified candidate. |
+| MR-205 | No phone dial-in/SIP evidence found in reviewed sources. | HighLevel noted dial-in as an additional access option; no delivery commitment. |
 | MR-206 | Pre-join camera/microphone preview/device checks exist. | The proposal is in-session host-side participant quality/network diagnostics. |
-| MR-207 | Mobile access to live sessions is documented. | Mobile picture-in-picture/background continuity was not established. |
-| MR-208 | Basic device preview and controls are documented. | The candidate needs concrete, reproducible accessibility examples before being sent; broad wording alone is not a verified defect report. |
-| MR-210 | Generic platform webhooks/API and basic live analytics exist. | Meeting Room-specific APIs/webhooks for room, occurrence, attendance, recording, transcript, and engagement objects were not established. |
+| MR-207 | Mobile access to live sessions is documented. | HighLevel agrees resilient mobile joining matters; PiP/background improvements are acknowledged, not verified as shipped. |
+| MR-208 | Basic device preview and controls are documented. | Accessibility across navigation, screen readers, focus, captions, and contrast is acknowledged; delivery not verified. |
+| MR-210 | Generic platform webhooks/API and basic live analytics exist. | HighLevel agrees Meeting Room objects/events should be exposed through APIs/webhooks; delivery not verified. |
 | MR-209 | Analytics roadmap was acknowledged by HighLevel in its point-by-point beta response. | Planned; source-backed delivery is not verified. |
 
 ## Official references

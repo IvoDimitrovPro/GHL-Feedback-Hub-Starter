@@ -1,7 +1,7 @@
 # MR-164 — Scheduled automated / simulive webinars
 
-**Product:** Meeting Room  
-**Type:** Feature  
+**Product:** Meeting Room
+**Type:** Feature
 **Status:** Acknowledged
 **Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
@@ -16,4 +16,4 @@ Webinar funnels need automated events without requiring a live presenter every t
 One-time/recurring/just-in-time schedules, prerecorded playback auto-start, optional live chat/Q&A, host can join, transition to live Q&A or end/redirect automatically.
 
 ## HighLevel response
-HighLevel acknowledged simulive as a roadmap consideration; delivery is not verified.
+HighLevel will consider simulive/automated webinars as part of the webinar roadmap.

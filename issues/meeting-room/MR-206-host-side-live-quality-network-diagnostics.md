@@ -1,8 +1,8 @@
 # MR-206 — Host-side live quality/network diagnostics
 
-**Product:** Meeting Room  
-**Type:** UX  
-**Status:** New
+**Product:** Meeting Room
+**Type:** UX
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Hosts running larger sessions need to identify participant/network problems whil
 Simple host quality dashboard for connection/audio/video problems and actionable diagnostics.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+PreJoin checks devices. A broader host-side quality/network diagnostics dashboard is acknowledged useful feedback.

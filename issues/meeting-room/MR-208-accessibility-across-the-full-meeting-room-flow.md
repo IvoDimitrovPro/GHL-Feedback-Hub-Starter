@@ -1,8 +1,8 @@
 # MR-208 — Accessibility across the full Meeting Room flow
 
-**Product:** Meeting Room  
-**Type:** UX  
-**Status:** New
+**Product:** Meeting Room
+**Type:** UX
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Keyboard/screen-reader/caption usability should not depend on the specific surfa
 Keyboard navigation, screen-reader labels, correct focus order, captions and sufficient contrast.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel agrees keyboard navigation, screen-reader support, focus management, captions, and contrast should be considered across Meeting Room.

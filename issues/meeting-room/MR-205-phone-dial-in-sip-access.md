@@ -1,8 +1,8 @@
 # MR-205 — Phone dial-in / SIP access
 
-**Product:** Meeting Room  
-**Type:** Feature  
-**Status:** New
+**Product:** Meeting Room
+**Type:** Feature
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Browser-only access is not sufficient for every industry/use case.
 Optional dial-in/SIP access where supported.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel noted dial-in as an additional access option for businesses needing traditional phone participation.

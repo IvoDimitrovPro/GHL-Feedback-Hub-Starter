@@ -1,8 +1,8 @@
 # MR-201 — Breakout rooms
 
-**Product:** Meeting Room  
-**Type:** Feature  
-**Status:** New
+**Product:** Meeting Room
+**Type:** Feature
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Useful for workshops, classes and team sessions.
 Breakout rooms with host assignment/return and basic timing/control.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel has considered breakout rooms; they are not required for initial rollout but fit the next layer.

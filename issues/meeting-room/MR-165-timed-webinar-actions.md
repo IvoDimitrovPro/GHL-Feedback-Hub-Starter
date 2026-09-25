@@ -1,7 +1,7 @@
 # MR-165 — Timed webinar actions
 
-**Product:** Meeting Room  
-**Type:** Feature  
+**Product:** Meeting Room
+**Type:** Feature
 **Status:** Acknowledged
 **Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
 
@@ -16,4 +16,4 @@ This removes dependence on separate webinar software and connects engagement dir
 Timed/manual CTA, offer, checkout, poll, resource, redirect and workflow actions, tracked per contact.
 
 ## HighLevel response
-HighLevel accepted the timed webinar actions direction; delivery timing was not specified.
+HighLevel agrees timed CTAs, offers, polls, resources, redirects, and workflow triggers are valuable.

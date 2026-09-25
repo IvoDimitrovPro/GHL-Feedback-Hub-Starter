@@ -1,8 +1,8 @@
 # MR-207 — Mobile PiP / background behavior
 
-**Product:** Meeting Room  
-**Type:** UX  
-**Status:** New
+**Product:** Meeting Room
+**Type:** UX
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Long calls, classes and webinars are frequently attended from mobile.
 Reliable reconnect, picture-in-picture and background audio/behavior where the OS allows it.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel agrees mobile joining and resilient reconnection matter; picture-in-picture and improved background behavior are useful additions.

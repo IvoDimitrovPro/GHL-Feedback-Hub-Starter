@@ -5,16 +5,19 @@
 **Status:** Acknowledged
 **Impact:** Not assessed
 **Date reported:** 2026-09-25
-**Source:** D:\IvoDimitrov-Universe\Brain\AI-chats\ChatGPT\Обратна-връзка-за-Meeting-room_2026_09_25__1244.md
+**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
 
 ## Observed
 Ivo repeatedly downloads recordings, extracts audio in Camtasia, and runs it through AssemblyAI for AI-ready transcripts. This saves recurring work; webinars should be able to disable the processing.
 
 ## Expected
-See the title and observed behavior above; keep the eventual request focused on the unresolved outcome.
+Provide a configurable post-meeting flow for regular meetings: a reliable full recording, optional audio-only or separate logical tracks, and a high-quality transcript with timestamps/chapters. Let hosts disable selected processing for webinars.
 
 ## HighLevel response
-HighLevel said complete final audio is the priority and separate tracks are secondary. Later user clarification confirms a regular-meeting use case; no roadmap commitment is recorded.
+HighLevel prioritizes reliable final audio mix/capture. Separate logical audio tracks/exports are useful feedback and will be evaluated separately.
 
 ## Provenance
-Zoom items are summarized from the named dated chat file. The Meeting Room beta reply is preserved only as a point-by-point summary in the ChatGPT conversation export, not as a verbatim vendor attachment.
+Zoom items are summarized from the named dated chat file. The point-by-point HighLevel response excerpt supplied by Ivo is preserved in sources/highlevel-meeting-room-response-2026-09-25.md; its original forum URL was not supplied.
+
+## Related feedback
+MR-145 separate audio-only/transcript/chapter draft is merged here; retain its file as historical provenance.

@@ -1,7 +1,7 @@
 # MR-120 — Platform-wide Translation & Label Manager
 
 **Product:** Platform
-**Type:** Platform  
+**Type:** Platform
 **Status:** New
 **Origin:** Direct request by Ivo in the 2026-04-14 HighLevel Product Town Hall; reiterated 2026-05-22.
 
@@ -16,4 +16,4 @@ This creates repeated development work and prevents agencies from consistently l
 One searchable platform string catalog with Agency → Location → asset overrides, import/export, bulk AI translation, missing-key view and reset-to-default.
 
 ## HighLevel response
-HighLevel said translation support was coming soon, then routed the request to the platform team. Track this as New / Platform until a platform owner confirms acceptance or delivery.
+HighLevel says a platform-wide Translation & Label Manager belongs at platform level; Meeting Room can consume it when available. Still a new platform-level request.

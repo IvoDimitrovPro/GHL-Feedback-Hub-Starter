@@ -1,8 +1,8 @@
 # MR-210 — API/webhooks for meeting objects and events
 
-**Product:** Meeting Room  
-**Type:** Platform  
-**Status:** New
+**Product:** Meeting Room
+**Type:** Platform
+**Status:** Acknowledged
 **Origin:** AI-generated candidate from the beta-review brief; not submitted.
 
 
@@ -16,7 +16,4 @@ Meeting Room becomes more useful as a platform primitive when other systems can 
 APIs/webhooks for rooms, occurrences, participants, recordings, transcripts and engagement events.
 
 ## HighLevel response
-No response recorded; this candidate has not been submitted.
-
-
-
+HighLevel agrees rooms, sessions, participants, recordings, transcripts, and engagement events should be exposed through APIs/webhooks.
