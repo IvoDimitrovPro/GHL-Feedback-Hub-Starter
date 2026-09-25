@@ -3,9 +3,9 @@
 **Product:** CRM
 **Type:** Feature
 **Status:** Planned
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 Relevant session data should be usable from related contact/opportunity history.

@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Bug
 **Status:** Closed — Works as designed
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 Screen-share audio was absent from a test recording. HighLevel clarified that browser audio is provided only when sharing a browser tab with audio enabled; whole-screen/app capture does not expose that stream.

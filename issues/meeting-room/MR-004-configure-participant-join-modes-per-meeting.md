@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Access
 **Status:** Shipped
-**Impact:** Medium
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Medium
 
 ## Observed
 Different meetings need different participant access modes.

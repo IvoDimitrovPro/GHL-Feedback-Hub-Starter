@@ -3,9 +3,9 @@
 **Product:** Workflows
 **Type:** Feature
 **Status:** Planned
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 Attendance and meeting outcomes should support automated follow-up.

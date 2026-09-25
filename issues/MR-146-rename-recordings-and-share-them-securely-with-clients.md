@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** New
-**Impact:** Not assessed
 **Date reported:** 2026-05-22
-**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Source:** ChatGPT beta feedback conversation, follow-up 2026-05-22; sources/meeting-room-feedback-history.md
+**Impact:** Not assessed
 
 ## Observed
 Ivo asked for the ability to rename a saved meeting recording. The checked Recordings Hub documentation established basic viewing, downloading, and deletion, but did not establish rename support.

@@ -4,8 +4,7 @@
 **Type:** Feature
 **Impact:** Not assessed
 **Status:** Planned
-**Origin:** Submitted beta feedback; HighLevel response summarized in the 2026-09-25 conversation archive.
-**Date reported:** 2026-05-22
+**Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
 
 

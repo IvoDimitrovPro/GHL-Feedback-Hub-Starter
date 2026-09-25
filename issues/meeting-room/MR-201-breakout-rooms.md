@@ -3,7 +3,8 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** Acknowledged
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Date reported:** 2026-09-25
+**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
 
 
 ## Observed

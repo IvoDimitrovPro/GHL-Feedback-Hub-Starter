@@ -3,9 +3,9 @@
 **Product:** Platform
 **Type:** Feature
 **Status:** Planned
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 From Calendars, Courses, Events, or Funnels, users should select/create/edit a meeting without leaving the current flow, with a link to the full manager.

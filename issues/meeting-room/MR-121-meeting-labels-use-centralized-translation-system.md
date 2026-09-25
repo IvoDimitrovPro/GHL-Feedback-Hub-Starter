@@ -3,9 +3,9 @@
 **Product:** Platform
 **Type:** Localization
 **Status:** Acknowledged
-**Impact:** Medium
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Medium
 
 ## Observed
 Meeting labels should follow the same centralized translations as the rest of HighLevel.

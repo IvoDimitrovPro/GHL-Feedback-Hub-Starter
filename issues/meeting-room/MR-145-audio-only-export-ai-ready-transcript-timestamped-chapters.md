@@ -3,7 +3,8 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** Closed — Not pursuing
-**Origin:** AI-generated candidate from the beta-review brief; not submitted.
+**Date reported:** 2026-09-25
+**Source:** AI-generated beta-review candidate, not submitted; sources/meeting-room-feedback-history.md
 
 
 ## Observed

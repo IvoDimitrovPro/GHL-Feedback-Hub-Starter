@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** Planned
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 Users need both common meeting creation paths directly in Meeting Room.

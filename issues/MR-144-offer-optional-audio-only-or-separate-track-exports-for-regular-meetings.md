@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** Acknowledged
-**Impact:** Not assessed
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Not assessed
 
 ## Observed
 Ivo repeatedly downloads recordings, extracts audio in Camtasia, and runs it through AssemblyAI for AI-ready transcripts. This saves recurring work; webinars should be able to disable the processing.

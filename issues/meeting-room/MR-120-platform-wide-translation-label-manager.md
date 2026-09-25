@@ -3,7 +3,8 @@
 **Product:** Platform
 **Type:** Platform
 **Status:** New
-**Origin:** Direct request by Ivo in the 2026-04-14 HighLevel Product Town Hall; reiterated 2026-05-22.
+**Date reported:** 2026-09-25
+**Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
 
 
 ## Observed

@@ -3,9 +3,9 @@
 **Product:** Meeting Room
 **Type:** Feature
 **Status:** Acknowledged
-**Impact:** Medium
 **Date reported:** 2026-09-25
 **Source:** ChatGPT beta feedback conversation; sources/highlevel-meeting-room-response-2026-09-25.md
+**Impact:** Medium
 
 ## Observed
 Workshops, coaching, and classroom sessions benefit from collaborative whiteboard and shared-note tools.
